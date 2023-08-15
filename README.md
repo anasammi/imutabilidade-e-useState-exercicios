@@ -31,7 +31,7 @@ Primeiro, vamos analisar todo o código que vocês estão recebendo.
 
 # Exercício 2
 
-Agora é hora de criar seus próprios cards, para recolher as informações dos pokemons, você pode usar o site https://bulbapedia.bulbagarden.net/wiki/Main_Page como referência! 
+Agora é hora de criar seus próprios cards! Para recolher as informações dos pokemons, você pode usar o site https://bulbapedia.bulbagarden.net/wiki/Main_Page como referência! 
 
 Seu trabalho nesse momento é criar o estado do pokémon e passar as Props corretamente do componente `App.js` para dentro do componente `PokemonCard`. Verifique se todas elas estão funcionando.
 
