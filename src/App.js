@@ -23,7 +23,7 @@ function App() {
     evolved: false,
     weight: 2,
     color: 'yellow',
-    image: 'https://archives.bulbagarden.net/media/upload/archive/f/f3/20130810070434%210172Pichu.png',
+    image: 'https://archives.bulbagarden.net/media/upload/archive/f/f3/20100724175644%210172Pichu.png',
     id: 0
   }
   */
