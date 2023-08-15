@@ -21,9 +21,9 @@ Primeiro, vamos analisar todo o código que vocês estão recebendo.
 
 - Observe o `App.js`, o que você consegue visualizar que já conhece? 
 - Entende o `<GlobalStyles/>`?
-- Analize os valores que são esperados por `props` no componente PokemonCard criado, que tipo de dado está sendo esperado neste componente?
+- Analise os valores que são esperados por `props` no componente PokemonCard criado, que tipo de dado está sendo esperado neste componente?
 
-- Agora analize o `JSX`, quais componentes existem nesta aplicação?
+- Agora analise o `JSX`, quais componentes existem nesta aplicação?
 - O que existe dentro do componente `PokemonCard`?
 - O que a função `evoluirPokemon` está fazendo no momento?
 - Quais informações estão sendo recebidas pelo componente PokemonCard via props?
